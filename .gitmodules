@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-aik"]
+	path = themes/hugo-theme-aik
+	url = git@github.com:kai-dj/hugo-theme-aik.git
