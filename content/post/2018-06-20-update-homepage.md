@@ -6,10 +6,10 @@ preview = "preview.png"
 title = "update homepage"
 +++
 
-unfortunatly i deleted the hugo sorces for this homepage – so i rebuild it from scratch.
+unfortunatly i deleted the hugo sorces for this homepage. and gladly my hoster [celeros](https://celeros.de/) made it possible to use [letsencrypt](https://letsencrypt.org/) certificates. a good reason to rebuild my homepage from scratch.</br>
 i stripped down all javascript and bootstrap and went back to pure css.
 </br>
-a few features yet have to be implemented. also i think about using a single org-file for content management.
+a few features yet have to be implemented. also i think about using a single org-file for content management in the future.
 
 to avoid another backup desaster, i also pushed the theme and the content files to github.
 
