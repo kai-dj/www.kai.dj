@@ -1,0 +1,9 @@
+* website todos
+** !!! burger menu for smaller screens
+** ! prevous and next for single post pages
+
+
+* settings								  :★: :☻:
+#+PRIORITIES: 0 9 5
+#+TODO: ? ! !! !!! > | . >>
+#+TAGS: ☀ ★ ☆ ☄ ☢ ☯ ☹ ☺ ☻
