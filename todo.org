@@ -1,7 +1,7 @@
 * website todos
 ** !!! burger menu for smaller screens
 ** ! prevous and next for single post pages
-
+** ! check font loading
 
 * settings								  :★: :☻:
 #+PRIORITIES: 0 9 5
