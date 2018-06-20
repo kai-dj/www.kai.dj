@@ -1,0 +1,43 @@
+[articles]
+    read_more = "read more"
+    words = "words"
+    readingtime = "minute read"
+    share = "share"
+    comments = "comments"
+
+# linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "older"
+    newer = "newer"
+
+[search]
+    placeholder = "search"
+
+[pagination]
+    previous = "prev"
+    next = "next"
+
+[profile]
+    follow_button = "follow"
+    tags = "tags"
+    posts = "posts"
+
+[page_not_found]
+    title = "404 - page not found - 404"
+    subtitle = "the content you're looking for doesn't seem to exist."
+    infotext1 = "if you followed some old link - there's a good chance to find the older content by prepending old. to the adress </br> i.e. if kai.dj/xyz.thx did exist you'll find it via old.kai.dj/xyz.thx"
+    infotext2 = "if you think this might be an error, please contact me via email: [kai@kai.dj](mailto:kai@kai.dj)"
+
+
+
+[widgets.categories]
+    title = "categories"
+
+[widgets.recent_articles]
+    title = "recents"
+
+[widgets.tag_cloud]
+    title = "tag cloud"
+
+[widgets.tags]
+    title = "tags"

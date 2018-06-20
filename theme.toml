@@ -1,0 +1,17 @@
+name = "Aik"
+license = "MIT"
+licenselink = "TODO"
+description = "kai.dj Theme"
+homepage = "kai.dj"
+tags = ["blog"]
+features = ["bootstrap", "talaria"]
+min_version=0.15
+
+[author]
+  name = "kai"
+  homepage = "kai.dj"
+
+[original]
+author = "syui"
+homepage = "https://syui.github.io"
+repo = "https://syui.github.io/hugo-theme-arch"
