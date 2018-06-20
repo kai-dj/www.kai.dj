@@ -13,6 +13,6 @@ a few features yet have to be implemented. also i think about using a single org
 
 to avoid another backup desaster, i also pushed the theme and the content files to github.
 
-+ [theme for hugo on github](#)
++ [theme for hugo on github](https://github.com/kai-dj/hugo-theme-aik)
 
-+ [site on github](#)
++ [site on github](https://github.com/kai-dj/www.kai.dj)
