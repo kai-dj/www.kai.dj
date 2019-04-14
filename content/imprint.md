@@ -12,8 +12,8 @@ title = "imprint"
 
 # imprint 
 kai lüking</br>
-wischbrakenweg 6</br>
-32609 hüllhorst</br>
+tullastraße 51</br>
+76131 karlsruhe</br>
 </br>
 e-mail: [kai@kai.dj](mailto:kai@kai.dj)</br>
 <!-- pgp: download key -->
